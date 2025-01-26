@@ -11,12 +11,9 @@ export default function AboutMe() {
           <p className="hero--section-description">
             My name is NGANDJUI HANGA Ivan Delors, an engineering student at Saint Jean Engineering, level 4, majoring in Computer Science and Information Systems.
             During this journey, I have been able to acquire skills in SI modeling, project management, web development, technician work, database administration, basic enterprise network administration/design/configuration, and I have recently been certified as a full-stack developer by the Code Academy of the National Advanced School of Engineering in Yaoundé, demonstrating my high competencies in Python, Data Analysis, Java, the J2EE framework, deployment, web design (HTML - CSS - JS), Bootstrap, Angular, and ReactJS.
-            Ngandjui Ivan is also very responsive and effective at finding solutions to situations due to the skills he has acquired in Algorithms
           </p>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae?
+          Ngandjui Ivan is also very responsive and effective at finding solutions to situations due to the skills he has acquired in Algorithms
           </p>
         </div>
       </div>
