@@ -1,0 +1,97 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Passionné par le développement web, je maîtrise des technologies clés comme React et Angular pour créer des interfaces utilisateur dynamiques et réactives. Mes compétences en HTML, CSS et JavaScript me permettent de concevoir des designs élégants, tandis que TypeScript assure la robustesse et la maintenabilité de mes applications. Je m'efforce de livrer des expériences utilisateur fluides et intuitives."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Développeur backend, je suis compétent en Node.js, Express et SpringBoot (Solide competence en Java) pour construire des Rest APIs performantes et évolutives. J'utilise des bases de données comme MongoDB, MySQL et PostgreSQL pour gérer efficacement les données. Mon approche axée sur la sécurité et la scalabilité garantit des solutions robustes et fiables."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "En tant que designer UI/UX, je crée des interfaces intuitives et esthétiques qui améliorent l'expérience utilisateur. Mon approche centrée sur l'utilisateur, combinée à des compétences en prototypage et en design d'interaction, permet de concevoir des solutions visuelles engageantes et fonctionnelles. Je m'efforce d'allier créativité et fonctionnalité pour des résultats optimaux."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "En tant que développeur Webflow, j'exploite cette plateforme pour créer des sites web réactifs et visuellement captivants sans compromettre la performance. Mon expertise en design et en développement me permet de transformer des idées en expériences interactives fluides. Je m'assure que chaque projet allie esthétique et fonctionnalité pour un impact maximal."
+    },
+    {
+      "id": "5",
+      "src": "./img/feather-pen-1.png",
+      "title": "DevOpps",
+      "description": "En tant que spécialiste DevOps, j'optimise les processus de développement et de déploiement pour garantir une livraison continue et fiable des applications. Mon expertise en automatisation, gestion des conteneurs avec Docker et orchestration avec Kubernetes améliore l'efficacité et la collaboration entre les équipes. Je m'engage à créer des environnements évolutifs et performants, tout en assurant la sécurité des infrastructures."
+    },
+    {
+      "id": "6",
+      "src": "./img/feather-pen-1.png",
+      "title": "Network Technician",
+      "description": "En tant que technicien réseau, je gère et maintiens l'infrastructure réseau pour assurer une connectivité optimale et sécurisée. Mon expertise en configuration de routeurs, commutateurs et pare-feu me permet de résoudre efficacement les problèmes et d'optimiser les performances. Je suis également compétent en surveillance réseau, garantissant une disponibilité constante et une sécurité accrue."
+    },
+    {
+      "id": "7",
+      "src": "./img/feather-pen-1.png",
+      "title": "Software ingenieer",
+      "description": "En tant que concepteur d'architecture logicielle, je me spécialise dans l'utilisation de l'UML pour modéliser des systèmes complexes, facilitant ainsi la communication entre les parties prenantes. Je conçois des architectures basées sur des microservices, permettant une scalabilité et une flexibilité optimales. Mon expertise en design patterns assure la réutilisabilité et la maintenabilité du code, garantissant des solutions robustes et adaptées aux exigences fonctionnelles et techniques."
+    }
+
+
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
