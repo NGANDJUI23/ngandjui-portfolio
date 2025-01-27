@@ -10,8 +10,8 @@ export default function HeroSection() {
             Fullstack Developer
           </h1>
           <p className="hero--section-description">
-          My name is NGANDJUI HANGA Ivan Delors, an engineering student at Saint Jean Engineering, level 4, majoring in Computer Science and Information Systems.
-            <br /> Wellcome to my portfolio
+            Un profil alliant expertise, solutions innovantes, détermination, efficacité et optimisation.
+            <br /> Bienvenue sur mon portfolio !
           </p>
         </div>
         <button className="btn btn-primary">Get In Touch</button>

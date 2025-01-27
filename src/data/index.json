@@ -50,22 +50,22 @@
       "id": "1",
       "src": "./img/placeholder-image.png",
       "title": "Conception et réalisation d'une app web de gestion du tourisme au cameroun",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "Ce projet réalisé en 6mois, durant le semestre 1 du niveau 4, en Java / Spring-boot pour le backend et HTML-CSS-JS-Bootstrap pour le frontend suivant une architecture microservice m'a permis d'augmenter mes competences en Java, framework J2EE, développement web, méthode agile pour la conception, sur l'architecture microservice, en Algorithmique et en management de projet.",
       "link": "View In Github"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
       "title": "Conception et réalisation d'une app web de gestion du transport de l'Institut Universitaire Saint Jean du Cameroun",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "description": "Ce projet réalisé, en cours de niveau 3, en Java / Spring-framework pour le backend et HTML-CSS-JS-Bootstrap pour le frontend m'a permis d'augmenter mes competences en Java, framework J2EE, développement web, méthode agile pour la conception, en Algorithmique et en management de projet.",
+      "link": "View In Gitlab"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
       "title": "Conception et réalisation d'une app web de gestion des prêts bancaire",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "description": "Ce projet réalisé, en cours de niveau 3, en Java pour le backend et Java Swing pour le frontend m'a permis d'augmenter mes competences en Java, Swing de NetBeans et en Algorithmique.",
+      "link": "View In Gitlab"
     }
   ],
   "testimonial": [
