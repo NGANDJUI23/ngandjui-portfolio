@@ -47,6 +47,10 @@ p {
   -ms-transition: background-color 0.5s;
   -o-transition: background-color 0.5s;
 }
+.btn-section{
+  display: flex;
+  gap: 1rem;
+}
 .btn-outline-primary {
   color: var(--primary);
   background-color: var(--white);
